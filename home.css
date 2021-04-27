@@ -1,0 +1,38 @@
+.títuloPrinc{
+    padding-left: 20px;
+}
+#banner{
+    width: 100%;
+}
+.princ{
+    background: #CCCCCC;
+    padding: 20px;
+}
+p{
+    text-align:center;
+}
+#missao{
+    font-size: 20px;
+}
+em strong{
+    color: #FF0000;
+}
+.títulosSecundarios{
+    text-align: center;
+}
+.itens{
+    font-style:italic;
+}
+.benefi{
+    background: #FFFFFF;
+    padding: 20px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%
+}
+.imgBenefi{
+    width: 50%;
+}
